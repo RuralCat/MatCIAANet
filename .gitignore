@@ -1,3 +1,9 @@
-# temp matlab file
+# temp matlab code
 *.asv
 
+# matlab file
+*.mat
+
+# ignore mex file
+MatConvNet/matlab/mex/*
+MatConvNet/matlab/src/*
